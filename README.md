@@ -1,5 +1,8 @@
 # Cloud Computing Project - Blockchain Assisted Verifiable Cassandra
 
+<img width="757" alt="Screenshot 2024-06-28 at 2 50 04 PM" src="https://github.com/shusritavenugopal/Blockchain-assisted-Verifiable-Cassandra/assets/63789652/4b52789a-276b-4eea-be2f-611c3f580291">
+
+
 ## Overview
 This project focuses on creating a proof-of-concept system for secure data storage and retrieval in a distributed environment. The system involves key components such as Data Owner, Database Service Provider, Query Client, Malicious Client, Ethereum Blockchain, Cassandra, and Merkle Tree to demonstrate integrity verification using a local Merkle Hash Tree.
 
