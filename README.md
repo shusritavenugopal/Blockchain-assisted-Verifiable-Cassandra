@@ -1,3 +1,4 @@
+![Blockchain](https://github.com/user-attachments/assets/c0f9a08e-b1a9-4456-8ed6-e6c6101fee31)
 # Cloud Computing Project - Blockchain Assisted Verifiable Cassandra
 
 <img width="757" alt="Screenshot 2024-06-28 at 2 50 04 PM" src="https://github.com/shusritavenugopal/Blockchain-assisted-Verifiable-Cassandra/assets/63789652/4b52789a-276b-4eea-be2f-611c3f580291">
